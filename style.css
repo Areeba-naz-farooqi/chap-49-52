@@ -1,0 +1,65 @@
+#div1{
+    justify-content: center;
+    display:inline-table;
+    border: 2px solid black;
+    width: 30%;
+    padding: 20px;
+    background: lightsalmon;
+    border-radius:20px ;
+   margin-left: 650px;
+    margin-top: 300px;
+    width: auto;
+    gap: 100px;
+
+}
+/* input{
+    margin: 10px;
+} */
+#name{
+    width: auto;
+    float: right;
+}
+#email{
+     width: auto;
+    float: right;
+}
+#address{
+     width: auto;
+    float:  right;
+}
+#religion{
+      width: auto;
+    float:   right;
+}
+#Phone-number{
+      width: auto;
+    float: right;
+}
+#button{
+    width: 100%;
+}
+#submit{
+    width: 100%;
+    background-color: aquamarine;
+}
+
+#para{
+    width: 50%;
+    text-align: center;
+    border: 6px dotted rgb(132, 132, 211)z;
+    font-size: 20px;
+    color: blueviolet;
+}
+.btn1{
+    color: white;
+    background-color: rgb(211, 151, 151);
+    border: none;
+    font-size: 20px;
+    border-radius: 8px;
+}
+#paradiv {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+;
+}
